@@ -59,7 +59,7 @@ JadeHigh Games RESERVES THE RIGHT TO TERMINATE ANY ACCOUNT THAT HAS BEEN INACTIV
 
 JadeHigh Games reserves the right to stop offering and/or supporting the Service or a particular game or part of the Service at any time, at which point your license to use the Service or a part thereof will be automatically terminated. In such event, JadeHigh Games shall not be required to provide refunds, benefits or other compensation to users in connection with such discontinued Service . Termination of your Account can include disabling your access to the Service or any part thereof including any content you submitted or others submitted.
 
-You may terminate your Account at any time and for any reason by following the process described on our support page located at https://www.dreamstonevr.com/ informing JadeHigh Games that you wish to terminate your Account.
+You may terminate your Account at any time and for any reason by following the process described on our support page located at https://github.com/JadeHeavenGames?tab=repositories informing JadeHigh Games that you wish to terminate your Account.
 
 Ownership
 
